@@ -19,14 +19,9 @@ jobs:
       with:
         test-name: Quiz 1
         setup-command: ''
-        command: Which of the following best describes software engineering?
-        input: |-
-          a) The study of hardware components
-          b) The process of designing, developing, and maintaining software
-          c) The analysis of networking protocols
-          d) The management of data storage systems
-        expected-output: b) The process of designing, developing, and maintaining
-          software
+        command: python quiz-1.py  
+        input: b
+        expected-output: Correct
         comparison-method: exact
         timeout: 10
         max-score: 10
