@@ -111,5 +111,5 @@ Software engineering is the process of designing, building, testing, and maintai
 **Why the improved prompt is better**:  
 - **More specific**: Narrows down the topic.  
 - **Increases clarity**: Ensures AI generates relevant information.  
-- **Guides AI’s response**: Focuses on key aspects of Python programming.  
+- **Guides AI’s response**: Focuses on key aspects of Python programming  
 
